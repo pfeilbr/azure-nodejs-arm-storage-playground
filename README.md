@@ -1,0 +1,1 @@
+# azure-nodejs-arm-storage-playground
